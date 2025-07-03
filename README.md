@@ -1,5 +1,5 @@
-# What-I-learned-today-java-edition-
-just things I am learning on my java journey!! 
+# What-I-learned-today-java-edition- DAY1
+Things I am learning on my java journey!! 
 Today's topic: Functions!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Notes:
